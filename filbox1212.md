@@ -10,7 +10,7 @@
 
 # Project Description
 
-![Filbox-prototype1](https://oss.faycz.com/filbox/pro-2.png)
+![Filbox-prototype1](https://oss.faycz.com/filbox/fibox1.png)
 ![Filbox-prototype2](https://oss.faycz.com/filbox/pro-2.png)
 
 ‒ Filbox is an open source file storage application built on top of Filecoin and IPFS network. While Filecoin has created an incentivised data storage market, to put it into daily use and realise mass adoption, we need a user friendly entry for people with any  background (technical + non-technical) and resolve the issues that are indeed concerning to them: 1) Data Privacy. Right now, it is possible for miners to stalk user data when they accept a deal request from storage clients.  2) Miner Stability. Although the filecoin economics structure has discouraged much of the malicious acts, there are still malicious miners out there (e.g. reject to accept deals/accept deals but not seal them) who maybe alarming for the data being stored.  3) Adding more fun. We want to add an extra layer of fun/usefulness to the platform.
